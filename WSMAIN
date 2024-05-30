@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Index</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h2 {
+            font-size: 24px;
+            color: #333;
+            margin-top: 30px;
+            margin-bottom: 10px;
+        }
+        ul {
+            padding: 0;
+            margin: 0;
+            list-style-type: none;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        a {
+            text-decoration: none;
+            color: #007bff;
+            font-weight: bold;
+            transition: color 0.3s;
+        }
+        a:hover {
+            color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h2 id="week1">Week 1</h2>
+    <ul>
+        <li><a href="https://quizlet.com/909943742/e-grid-1-week-1-flash-cards/?funnelUUID=d63a8306-6d26-4b7a-a699-0e4e892df06b">Egrid 1 Week 1</a></li>
+        <li><a href="week1_letter2.html"></a></li>
+    </ul>
+
+    <h2 id="week2">Week 2</h2>
+    <ul>
+        <li><a href="https://quizlet.com/911157884/e-grid-1-week-2-flash-cards/?funnelUUID=d94292db-e456-4022-875e-38c0028da605">Egrid 1 Week 2</a></li>
+        <li><a href="week2_letter2.html"></a></li>
+    </ul>
+
+    <h2 id="week3">Week 3</h2>
+    <ul>
+        <li><a href="https://quizlet.com/914613492/egrid-1-week-3-flash-cards/?funnelUUID=f28187a8-a469-4ccc-b7ef-7a785d947c37"">Egrid 1 Week 3</a></li>
+        <li><a href="https://quizlet.com/914605227/rigging-week-3-flash-cards/?funnelUUID=02588e23-ac98-459b-ac16-92d85d011930">Rigging Week 3</a></li>
+    </ul>
+
+    <h2 id="week4">Week 4</h2>
+    <ul>
+        <li><a href="https://quizlet.com/917147399/egrid-1-week-4-flash-cards/?funnelUUID=dc2ed490-b748-4bb3-9b30-6e95f07bbe29">Egrid 1 Week 4</a></li>
+        <li><a href="https://quizlet.com/917155972/rigging-week-4-flash-cards/?i=5tg7ew&x=1qqt">Rigging Week 4</a></li>
+    </ul>
+    <h2 id="week5">Week 5</h2>
+    <ul>
+        <li><a href="https://docs.google.com/document/d/1C5laaV-3Zf-4ELrrADHMQ1eTgfzHdv1z41FBODpO4Kw/edit?usp=sharing">WLE Study Guide</a></li>
+        <li><a href=""></a></li>
+    </ul>
+</body>
+</html>
